@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 ---
 
@@ -17,3 +17,9 @@ Thanks to the following:
 * [Jekyll](http://jekyllrb.com)
 * [Refills](http://refills.bourbon.io/)
 * [Solarized](http://ethanschoonover.com/solarized)
+
+### Imprint
+
+	Georg Ringer
+	Hirschgasse 5
+	4020 Linz
