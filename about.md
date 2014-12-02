@@ -4,22 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Blog by Georg Ringer, TYPO3 developer and open-source enthusiast.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+### Imprint
 
-Thanks to the following:
+Georg Ringer<br>
+Hirschgasse 5<br>
+4020 Linz<br>
+Austria
 
+
+### Thanks to
+
+* [John Otander](http://johnotander.com)
 * [BASSCSS](http://basscss.com)
 * [Jekyll](http://jekyllrb.com)
 * [Refills](http://refills.bourbon.io/)
 * [Solarized](http://ethanschoonover.com/solarized)
-
-### Imprint
-
-	Georg Ringer
-	Hirschgasse 5
-	4020 Linz

@@ -11,13 +11,13 @@ google_analytics:
 
 # Optional features
 animated:           false
-show_related_posts: false
+show_related_posts: true
 show_post_footers:  false
 
 # Social icons
-show_social_icons: false
-github_username:
-twitter_username:
+show_social_icons: true
+github_username: georgringer
+twitter_username: georg_ringer
 google_plus_id:
 linkedin_username:
 bitcoin_url:
@@ -30,3 +30,4 @@ permalink:    pretty
 paginate:     3
 sass:
   compressed: true
+permalink: /:year/:month/:day/:title.html
