@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      EXT:news is fully working with TYPO3 CMS 7.0
+title:      EXT:news & TYPO3 CMS 7.0
 date:       2014-12-06
-summary:    Simple way to review one liner changes by git diff
+summary:    My TYPO3 extension news is fully working with the latest TYPO3 CMS 7.0!
 categories: ext news typo3 cms7
 ---
 
