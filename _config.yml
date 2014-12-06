@@ -1,13 +1,13 @@
 # Site settings
 title:       blog.montagmorgen.at
-email:       georg.ringer@ggmail.com
+email:       georg.ringer@gmail.com
 author:      Georg Ringer
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
 url:         "http://blog.montagmorgen.at"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-57411660-1
 
 # Optional features
 animated:           false
@@ -19,7 +19,7 @@ show_social_icons: true
 github_username: georgringer
 twitter_username: georg_ringer
 google_plus_id:
-linkedin_username:
+linkedin_username: georgringer
 bitcoin_url:
 paypal_url:
 flattr_button:
