@@ -24,5 +24,6 @@
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="og:description" content="{% if page.summary %}{{ page.summary}}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    {% if page.og-image%}<meta property="og:image" content="{{ site.url }}/assets/{{ page.og-image}}">{% endif %}
     <meta property="og:site_name" content="{{ site.title }}">
 </head>
