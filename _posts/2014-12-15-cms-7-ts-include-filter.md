@@ -12,7 +12,7 @@ it makes the live of an integrator a bit easier.
 
 See the animated gif below for a short impression:
 
-![Screen capture of filtering](/assets/typo3-include-static-filter.gif.gif)
+![Screen capture of filtering](/assets/typo3-include-static-filter.gif)
 
 This is not a new feature but already possible since quite a while. If you need something like that as well, 
 just use the following **TCA configuration**:
