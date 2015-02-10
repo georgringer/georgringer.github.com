@@ -2,12 +2,11 @@
 layout:     post
 title:      Logging with TYPO3 CMS using monolog
 date:       2014-12-30
-summary:    This articles describes how you can use monolog to have a proper logging in TYPO3 CMS.	
 categories: typo3 cms7 monolog log
 og-image:   logging-module.png
 ---
 
-**tl;dr:** The extension *logging* brings the logging framework *monolog* to TYPO3 CMS. Included is a backend module to list & filter log entries. You can find it [here](https://github.com/georgringer/logging).
+**tl;dr:** The extension *logging* brings the logging framework *monolog* to TYPO3 CMS. Included is a backend module to list & filter log entries. 
 
 Logging is an important part of an application which is not only useful during the development phase but also later on 
 to be able know very fast if something does go wrong.
@@ -16,7 +15,7 @@ TYPO3 CMS has a nice logging framework which is described in detail at [docs.typ
 The code is heavily inspired by [monolog](https://github.com/Seldaek/monolog) itself. 
 
 For me it makes more sense to bring the original code into the world of TYPO3 instead of manually backporting it. 
-This is one of the goals of my extension "**logging**". 
+This is one of the goals of my extension "**logging**". You can find it [here](https://github.com/georgringer/logging).
 
 ### About monolog
 
