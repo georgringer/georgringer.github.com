@@ -7,7 +7,7 @@ categories: git
 ---
 
 If you need to review one liners which change just a few bytes, it is helpful to use a proper command:
-
+<!--more-->
 {% highlight bash %}
 git diff --ignore-all-space --word-diff=color  --unified=0 HEAD^1..HEAD
 {% endhighlight %}

@@ -7,7 +7,7 @@ categories: ext news typo3 cms7
 ---
 
 The first snapshot of TYPO3 CMS 7 has just been released and the latest [GIT version](https://git.typo3.org/TYPO3CMS/Extensions/news.git) of EXT:news is already compatible!
-
+<!--more-->
 The current changes are:
 
 * Start to adopt the styling of the backend modules

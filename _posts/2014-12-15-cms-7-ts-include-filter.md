@@ -8,7 +8,7 @@ og-image:   typo3-include-static-filter.gif
 ---
 
 A nice improvement just got merged into the master of TYPO3 CMS! Just one line has been added but 
-it makes the live of an integrator a bit easier.
+it makes the live of an integrator a bit easier.<!--more-->
 
 See the animated gif below for a short impression:
 

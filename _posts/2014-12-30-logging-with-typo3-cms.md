@@ -7,7 +7,7 @@ og-image:   logging-module.png
 ---
 
 **tl;dr:** The extension *logging* brings the logging framework *monolog* to TYPO3 CMS. Included is a backend module to list & filter log entries. 
-
+<!--more-->
 Logging is an important part of an application which is not only useful during the development phase but also later on 
 to be able know very fast if something does go wrong.
 

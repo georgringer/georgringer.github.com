@@ -8,6 +8,7 @@ og-image:   typo3-ajax-list-module.gif
 ---
 
 The list module has been improved by some JavaScript to handle the hide/unhide with AJAX requests. This means no more reloading right module!
+<!--more-->
 
 See the animated gif below for a short impression:
 
