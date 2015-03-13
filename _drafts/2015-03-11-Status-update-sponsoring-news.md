@@ -35,8 +35,8 @@ Claus Due (twitter and nickname *namelesscoder*) is known very well for his work
 
 He offered a half day of work, dedicated to EXT:news!
 
-## Andreas Beyl
+## Andreas Beyl / STIMME.NET
 
-Andreas Beyl, senior developer at [STIMME.net](http://www.stimme.net) sponsored a full working day!
+Andreas Beyl, senior developer and team leader at [STIMME.NET](http://www.stimme.net) sponsored a full working day!
 
-STIMME.NET steht für ein junges engagiertes Team aus ca. 15 Mitarbeitern, die in einer TYPO3- und Internetagentur aus der Region Heilbronn-Franken Internetauftritte für Unternehmen, Verbände und gemeinnützige Organisationen realisieren. Bereits seit 1998 begleiten wir unsere Kunden von der Konzeption, über die Gestaltung bis hin zur Entwicklung und Umsetzung der Websites, sowie der anschließenden Vermarktung. Durch Spezialisten in allen Bereichen können wir Hand in Hand ein optimales und individuell an den Kunden angepasstes Konzept erarbeiten, das keine Wünsche übrig lässt.
+STIMME.NET is a young and dedicated TYPO3 web agency of 15 employees. STIMME.NET provides websites for companies, associations and non-profit organizations for the southern region of Germany, near Stuttgart. Since 1998, we support our customers in conceptual design, development and implementation of websites, as well as in online marketing. Working with specialists we are able to offer our clients an individual and professional concept, perfectly matching your personal requirements.
