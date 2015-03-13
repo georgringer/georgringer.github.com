@@ -67,6 +67,8 @@ There are multiple ways how you can help:
 - Send me your ideas
 - Money (yes of course that helps as well)
 
+A [donation link can be found on my website](http://www.montagmorgen.at/donate.html).
+
 If you have *any* questions, don't hesitate to contact me by [mail](mailto:georg.ringer@gmail.com) or any other channel!
 
 *Thanks for reading!*
