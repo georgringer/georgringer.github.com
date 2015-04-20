@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Sicherheit im Bankenalltag
+summary:      Der folgende Blogpost beschreibt Sicherheit im Bankenalltag und wie schwer es ist, diese zu verbessern
 date:       2015-04-20
 categories: security bank
 ---
