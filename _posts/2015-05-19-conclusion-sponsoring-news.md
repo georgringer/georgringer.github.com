@@ -7,7 +7,7 @@ categories: typo3 ext news
 I would like to share the conclusion after my call for sponsors.
 <!--more-->
 
-In a [previous post](2015-02-25-Sponsoring-ext-news) I presented the roadmap of my TYPO3 extension news. 
+In a [previous post](/2015/02/25/Sponsoring-ext-news.html) I presented the roadmap of my TYPO3 extension news. 
 Since then some people and companies contacted me for donations and that was a really great feeling! 
 All of those are already very active in the TYPO3 community!
 
