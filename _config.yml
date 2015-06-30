@@ -2,7 +2,7 @@
 title:       blog.montagmorgen.at
 email:       georg.ringer@gmail.com
 author:      Georg Ringer
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Blog by Georg Ringer, mostly about coding with TYPO3"
 baseurl:     ""
 url:         "http://blog.montagmorgen.at"
 
