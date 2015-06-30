@@ -30,6 +30,8 @@ Basically all you need is:
 - TYPO3 CMS 7.2+
 - A google account
 
+You can get the extension from [github.com/georgringer/page_speed](https://github.com/georgringer/page_speed) or from [TER](http://typo3.org/extensions/repository/view/page_speed).
+
 A demo mode can be enabled in the configuration inside the Extension Manager which will show you a static result without the need of configuring anything!
 
 Please follow the guidelines at [github.com/georgringer/page_speed](https://github.com/georgringer/page_speed/blob/master/README.rst#installation--configuration).
