@@ -53,7 +53,7 @@ If you want to use this extension it would be fair to support further developmen
 - less then 100 clients: € 350
 - more than 100 clients: € 500
 
-Those numbers are just a proposal. Please get in [contact if you want to support me](mailto:georg.ringer@gmail.com)!
+Those numbers are just a proposal for a **onetime payment**. Please get in [contact if you want to support me](mailto:georg.ringer@gmail.com)!
 
 ## Workflow
 
