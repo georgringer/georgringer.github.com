@@ -66,6 +66,7 @@ The monitoring concept requires 2 extensions.
 ### Requirements
 
 - The **monitor** must be able to connect to all clients. TYPO3 CMS 7.6 LTS is required.
+- The **client** works currently with TYPO3 CMS 4.5 - 7.6
 
 ### Installation
 
@@ -73,7 +74,7 @@ The installation is really easy:
 
 1) Install the client: Get the extension from [github](https://github.com/georgringer/t3monitoring_client) (and soon from TER), install it and configure it in the Extension Manager by providing a **secret**. Also provide the IP of the monitor's server. Repeat this process for every client.
 
-2) Install the mmonitor: Get the extension from [github](https://github.com/georgringer/t3monitoring) (and soon from TER) and create a new client record. Important is the domain and the secret you just created.
+2) Install the monitor: Get the extension from [github](https://github.com/georgringer/t3monitoring) (and soon from TER) and create a new client record. Important is the domain and the secret you just created.
 
 3) Switch to the command line and use `./typo3/cli_dispatch.phpsh extbase monitoring:importAll`. You can also create a scheduler task for that.
 
