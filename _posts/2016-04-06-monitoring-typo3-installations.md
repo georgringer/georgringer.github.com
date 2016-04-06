@@ -4,6 +4,7 @@ title:      Monitoring TYPO3 installations
 summary:    This blog post describes the extension t3monitoring which enables you to monitor all of your clients
 date:       2016-04-06
 categories: typo3 monitor client
+og-image:   t3monitor/index.png
 ---
 If you got more than a dozen of clients it is important to know which extensions and which core versions are used. 
 `t3monitoring` shows you all of this information and even more in a clearly arranged module.
