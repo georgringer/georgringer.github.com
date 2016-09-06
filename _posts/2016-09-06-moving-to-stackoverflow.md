@@ -5,12 +5,12 @@ summary:    This blog post describes the initative of moving support to stackove
 date:       2016-09-06
 categories: typo3 support
 ---
-The TYPO3 core team anounced during the TYPO3 DevDays 2016 that every Q & A for and by the community should move to [stackoverflow](https://stackoverflow.com).
+The TYPO3 core team anounced during the TYPO3 DevDays 2016 that every Q & A for and by the community should move to stackoverflow.com.
 <!--more-->
 
 ## stackoverflow
 
-[stackoverflow](https://stackoverflow.com) is one of the most used website for placing questions and getting answers. Its features are:
+[stackoverflow](http://stackoverflow.com/questions/tagged/typo3) is one of the most used website for placing questions and getting answers. Its features are:
 
 - Acceptance 
 - Not just bound to TYPO3 or web related questions
@@ -44,7 +44,7 @@ Stackoverflow is the right tool if you got questions and need answers. It is not
 
 Please help the TYPO3, the TYPO3 community and yourself!
 
-- If you need an answer to a TYPO3 related question, use [stackoverflow](https://stackoverflow.com).
+- If you need an answer to a TYPO3 related question, use [stackoverflow](http://stackoverflow.com/questions/tagged/typo3).
 - Use as many (up to 5) tags and include at least the TYPO3 version as well
 - Use e.g. http://stackoverflow.com/questions/tagged/typo3?sort=unanswered to find unanswered TYPO3 questions and try to answer those
 - Spread the word!
