@@ -72,11 +72,15 @@ Folgende Themen wurden vorgestellt und stehen auf der Roadmap der TYPO3 GmbH:
 
 Die Website typo3.com wurde komplett überarbeitet und präsentiert sich nun mit einem neuen und zeitgemäßen Layout. Als Zielgruppe wird der Endkunde definiert, der Informationen zu TYPO3, der GmbH und Referenzen findet.
 
-Der TYPO3 shop wurde weiter außergebaut und die Merchandise-Artikel können seit längerem nun auch bei den unterschiedlichen TYPO3 Events direkt vor Ort erworben werden.
+Der TYPO3 shop wurde weiter ausgebaut und die Merchandise-Artikel können seit längerem nun auch bei den unterschiedlichen TYPO3 Events direkt vor Ort erworben werden.
 
 Das Video "[TYPO3 - Still there](https://www.youtube.com/watch?v=yiJjpKzCVE4)", das zur TYPO3 Konferenz 2015 veröffentlicht wurde, war ein großer Erfolg. 3 weitere Videos deren Zielgruppe der Endkunde ist, sind konzipiert und werden bald veröffentlicht. Ebenso wird an weiteren Marketingmaterial wie Flyer & Handouts gearbeitet.
 
 Die nächsten Sprints findet im November 2016 und Frühling 2017 statt und es werden dafür noch Teilnehmer gesucht.
  
+## Workshop "Kooperation zwischen Agenturen"
 
+Ein abschließender gemeinsamer Workshop befasste sich mit dem Thema Kooperation zwischen Agenturen in Österreich und ob diese funktioniert oder ausbaufähig ist. In Kleingruppen wurde ausgearbeitet warum die Kooperation nicht und warum sie funktioniert.
+
+Agenturen haben teilweise Angst sich zu vernetzen und sich auszutauschen was Knowhow, Referenzen, Pitches anbelangt. 
 
