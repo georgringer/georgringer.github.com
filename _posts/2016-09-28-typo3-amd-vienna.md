@@ -8,6 +8,9 @@ categories: typo3 amd
 
 Am 28.9.2016 fand in Wien ein Agency-Meetup-Day (AMD) statt, deren Ziel es ist, die Verantwortlichen von TYPO3 und Agenturen die TYPO3 einsetzen zusammen zu bringen.
 <!--more-->
+
+Mit Attila Janos und mir war die Digital & TYPO3 Agentur [http://www.sup7even.digital/](Sup7even) dort vertreten.
+
 ## Bericht über das letzte Jahr
 
 Natalie Klinke fasste die Aktivitäten des letzten Jahres zusammen. Neben zahlreichen Events wie T3CON15ASIA, T3EE, T3COOP, T3CON15EU, UX Week, CertiFUNcation wurden neue Mitglieder des EAB (Expert Advisory Board) und BCC (Business Control Committee) gewählt.
