@@ -20,7 +20,7 @@ Die TYPO3 GmbH wurde gegründet, um Services anzubieten, die von einer Agentur s
 
 - Beschleunigung & Sicherstellung der Weiterentwicklung
 - Vergrößerung des TYPO3 Ökosystems
-- Support für Agenturen, Vertreib & Projekte
+- Support für Agenturen, Vertrieb & Projekte
 
 ### Marketplace
 
